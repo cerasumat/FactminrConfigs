@@ -1,0 +1,4 @@
+mysql:
+  connStr: server=192.168.10.7;uid=root;pwd=Factminr2017@;database=factminr.scheduler
+mongo:
+  connStr: mongodb://192.168.10.6:27017
