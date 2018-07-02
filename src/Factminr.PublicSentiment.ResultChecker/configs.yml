@@ -4,3 +4,5 @@ checker:
   mysqlPwd: Kidding!
   mysqlDatabase: factminr.scheduler
   mongoConn: mongodb://192.168.10.6:27017
+  mongoDataBase: testbaidu
+  mongoCollection: baidu
