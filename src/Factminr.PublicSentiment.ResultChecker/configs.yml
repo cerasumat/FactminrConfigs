@@ -1,6 +1,5 @@
-mysql:
-  host: 192.168.10.7
-  uid: root
-  database: factminr.scheduler
-mongo:
-  connStr: mongodb://192.168.10.6:27017
+checker:
+  mysqlHost: 192.168.10.7
+  mysqlUid: root
+  mysqlDatabase: factminr.scheduler
+  mongoConn: mongodb://192.168.10.6:27017
