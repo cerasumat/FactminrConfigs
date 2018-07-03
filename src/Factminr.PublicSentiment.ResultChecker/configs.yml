@@ -6,3 +6,4 @@ checker:
   mongoConn: mongodb://192.168.10.6:27017
   mongoDataBase: testbaidu
   mongoCollection: baidu
+  shareFolder: \\192.168.20.51\image\publicsentiment
